@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
         <h1>GRAPH</h1>
-        <Graph />
+        <Graph data={[0, 1, 2, 3]}/>
     </div>
   )
 }

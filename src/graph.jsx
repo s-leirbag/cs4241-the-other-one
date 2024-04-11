@@ -1,10 +1,10 @@
 import './App.css'
 import LinePlot from './LinePlot'
 
-function Graph() {
+function Graph({data}) {
     return (
         <LinePlot
-          data={[0, 1, 2, 3]}
+          data={data}
         />
     )
 }
