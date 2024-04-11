@@ -1,8 +1,13 @@
-# React + Vite
+# ICE03
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Contributions
+Group members: Gabriel Shiu, Klaudio Fusha, Sai Teja Sunku, Edison Zhang, Mike Wilkinson
 
-Currently, two official plugins are available:
+Gabriel and Sai worked on visualizing multiple line graphs at once.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Mike worked on setting up the development environment for everyone to use and deployment
+
+Klaudio and Edison worked on parsing JSON data that could be visualized
+
+### Technologies
+Used D3.js
